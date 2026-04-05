@@ -1,4 +1,4 @@
-# logdock-ee-development
+# LogDock EE
 Follow the development of the Enterprise Edition of LogDock and create issues.  
 
 - UPSTREAM DEVELOPMENT: https://github.com/TechnologiesBudgie/logdock-ee-development/tree/main/upstream/
