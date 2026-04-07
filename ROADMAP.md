@@ -39,7 +39,7 @@ Items marked **PLANNED** are scheduled for future releases.
 
 ---
 
-## LogDock AI — **COMING SOON**
+## 🤖 LogDock AI — **COMING SOON**
 
 > **LogDock AI** is a specialized AI assistant purpose-built for log
 > observability, incident response, and SRE workflows.
